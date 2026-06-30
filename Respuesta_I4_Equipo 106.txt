@@ -1,0 +1,13 @@
+Nombres:
+Ivan Guzzo Beta y Gamma
+Ezequiel Gonzalez Alfa
+Preguntas:
+A- ¿Qué color de fondo tiene su página en el TESTING ?
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
+C- ¿Qué color de fondo tiene su página en el MASTER?
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+Respuestas:
+A) Quedo de Color azul
+B) Quedo de Color amarillo
+C) Quedo de Color azul
+D) Se quedo con el favicon de ALFA
