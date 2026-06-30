@@ -1,0 +1,28 @@
+Nombres:
+Ivan Guzzo Beta y Gamma
+Ezequiel Gonzalez Alfa
+Preguntas:
+A- ¿Qué color de fondo tiene su página en el TESTING ?
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
+C- ¿Qué color de fondo tiene su página en el MASTER?
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+RESPUESTAS:
+A) Quedo de Color azul
+B) Quedo de Color amarillo
+C) Quedo de Color azul
+D) Se quedo con el favicon de ALFA
+
+Preguntas:
+E- ¿Algún integrante tuvo problemas al hacer el push?
+F- ¿Qué problemas surgieron?
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+H- ¿Qué sucede si cada uno utiliza el push -f?
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
+RESPUESTAS:
+E) Si Beta tuvo un problema y seguramente que gamma hubiese tenido el mismo
+F) Como ambos quisieron cambiar el mismo archivo no dejaba.
+G) La solución era abrir de nuevo el archivo y dejar ambos cambios o como se prefiera para que ya no este el problema una consecuencia seria que hay que hacer mas pasos 
+H) Si se usa push -f cada uno estaría sobreescribiendo los cambios del anterior es decir eliminándolos y cambiándolos por los suyos
+I)Primero, resolver los conflictos en la rama TESTING, conservando los tres elementos <p> agregados por ALFA, BETA y GAMMA. Luego confirmar el merge con git add y git commit. Una vez que TESTING contiene los tres cambios, cambiar a la rama DESARROLLO, actualizarla y hacer un merge de TESTING hacia DESARROLLO. Por ultimo realizar el push de DESARROLLO al repo.
